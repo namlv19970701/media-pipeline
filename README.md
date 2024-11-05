@@ -4,6 +4,6 @@ To be continue....
 
 ![Alt text](media-pipeline.png)
 ## Description
-![Alt text](images/kafka.png)
-First line is a platform name
-Second line is topic name
+![Alt text](images/kafka.PNG)
+- First line is a platform name
+- Second line is topic name
