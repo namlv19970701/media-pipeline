@@ -2,4 +2,4 @@
 To be continue....
 # Pipeline
 
-![Alt text]()
+![Alt text](smcc-pipeline.png)
